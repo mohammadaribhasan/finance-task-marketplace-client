@@ -1,3 +1,5 @@
+<img width="1279" height="634" alt="10" src="https://github.com/user-attachments/assets/ffd2b701-860a-4a2a-b53b-68fc5b0b33ec" />
+
 Website name : JobTrack
 
 Live site URL : https://assaignment-10-e8240.web.app
@@ -7,6 +9,7 @@ Live site URL : https://assaignment-10-e8240.web.app
 💼 Freelancer Bidding System: Freelancers can place bids on tasks by offering their price and estimated completion time, allowing task owners to choose the best fit.
 
 🧠 Skill-Based Matching: The platform connects users and freelancers based on skill sets, ensuring relevant and efficient collaboration opportunities.
+<img width="1279" height="634" alt="10" src="https://github.com/user-attachments/assets/ffd2b701-860a-4a2a-b53b-68fc5b0b33ec" />
 
 💬 Seamless Communication: Users and freelancers can connect and communicate directly through the platform to clarify requirements and negotiate terms.
 
